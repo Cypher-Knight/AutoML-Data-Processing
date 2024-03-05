@@ -4,5 +4,7 @@ This project automates data pre-processing for machine learning tasks. Built wit
 
 ## **Output**
 
+Click the below image type video to watch the output. It will redirect you to youtube.
+
 [![Video title](https://img.youtube.com/vi/cWPR27kejjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=cWPR27kejjo)
 
